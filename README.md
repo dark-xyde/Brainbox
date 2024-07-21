@@ -1,2 +1,2 @@
 # Brainbox
-Welcome to Brainbox, where we overcomplicate the simple things so you don’t have to! From automating mundane tasks to solving problems you didn’t know you had, Brainbox has it all. Dive in and marvel at how effortlessly we make your life easier or harder
+Welcome to Brainbox, where I overcomplicate the simple things and let my ADHD run wild! This is your one-stop-shop for all those brilliant, time-saving scripts and tools that you never knew you needed and probly never will. From automating mundane tasks to solving problems you didn’t know existed, Brainbox has it all. Dive in and marvel at how effortlessly we make your life easier—because who doesn’t love a good shortcut?
